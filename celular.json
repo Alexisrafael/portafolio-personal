@@ -1,0 +1,299 @@
+{
+    "celulares":[
+        {
+            "marca":"xiaomi",
+            "modelo":"Redmi 10c",
+            "imagenes":["https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/ceb02ce3-96a5-4f4a-9e6c-8b946a9b6ae6.b24300018606b5dfa55bd5374d468cd0.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/279811f4-d450-4a20-92d8-b366486300f5.4d96fc9a8895e67eeb9c0a9b6dfac7be.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"],
+            "precio":"150 USD",
+            "memoria_Ram": "4 Gb",
+            "almacenamiento": "128 Gb",
+            "procesador": "Snapdragon 680",
+            "bateria": "5000 mAh"
+        },
+        {
+            "marca":"xiaomi",
+            "modelo":"Redmi Note 11",
+            "imagenes":["https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/10fcd659-83b4-4eb1-a537-ca402cfdda25.60edb5857943ad91c2ee92f51e114ae6.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/6b499327-d787-4e37-8081-544aa5db7407.b26b165931d14bf88804d485d0c7a31c.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/7caf3e3a-bbb6-4029-8af9-f01b5caac34b.5d4d0fbe587ef68be425079afc0a4be2.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"],
+            "precio":"189 USD",
+            "memoria_Ram": "4 Gb",
+            "almacenamiento": "128 GB",
+            "procesador": "octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "bateria": "5000 mAh"
+        },
+        {
+            "marca":"xiaomi",
+            "modelo":"11T Pro 5G",
+            "imagenes":["https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/e19eb8e8-4990-42e8-b538-dbc941260bf6.9575ddf1100e200f274dff978a48c0c9.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/9df5698f-db37-44b9-9017-fc09a7782fe5.1a1c2fd3847a7ed4f5465dc1b936e355.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"],
+            "precio":"478 USD",
+            "memoria_Ram": "8 Gb",
+            "almacenamiento": "256 GB",
+            "procesador": "Qualcomm Snapdragon 888",
+            "bateria": "5.000 mAh Carga rápida"
+        },
+        {
+            "marca":"xiaomi",
+            "modelo":"Redmi Note 10 Pro",
+            "imagenes":["https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00693417773037l.jpg","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00693417773037-2l.jpg"],
+            "precio":"402 USD",
+            "memoria_Ram": "6 Gb",
+            "almacenamiento": "128 Gb",
+            "procesador": "Qualcomm Snapdragon 732G",
+            "bateria": "5020 mAh"
+        },
+        {
+            "marca":"xiaomi",
+            "modelo":"POCO M4 Pro 4G",
+            "imagenes":["https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00693417777338l.jpg","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00693417777338-1l.jpg","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00693417777338-2l.jpg","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00693417777338-3l.jpg"],
+            "precio":"237 USD",
+            "memoria_Ram": "8 Gb",
+            "almacenamiento": "256 GB",
+            "procesador": "MediaTek Helio G96",
+            "bateria": "5.000 mAh"
+        },
+        {
+            "marca":"xiaomi",
+            "modelo":"Redmi K40 Gaming Edition Dual Sim",
+            "imagenes":["https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/065d1d8e-1068-4b47-931d-a0b85f341fce.c9b2a1be715b4f222611eaf759ca357e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff","https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/3pp/asr/426a06fa-9170-4bbb-8344-7e4af475acbd.dd768c81d5437c6f273dcc45309567d7.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"],
+            "precio":"462 USD",
+            "memoria_Ram": "12 Gb",
+            "almacenamiento": "256 Gb",
+            "procesador": "MediaTek MT6893 Dimensity 1200 5G",
+            "bateria": "5065 mAh"
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        },
+        {
+            "marca":"",
+            "modelo":"",
+            "imagenes":[""],
+            "precio":"",
+            "memoria_Ram": "",
+            "almacenamiento": "",
+            "procesador": "",
+            "bateria": ""
+        }
+    ],
+    "accesorios":[
+        {
+
+        }
+    ]
+}
