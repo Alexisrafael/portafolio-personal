@@ -1,6 +1,8 @@
 import React from 'react';
 import Encabezado from '../Emcabezado/Encabezado';
 import est from './landinPage.module.css'
+import videogames from '../../imagenes/Videogames.png';
+import Nautical from '../../imagenes/nautical.png'
 
 const LandinPage = () => {
     return (
@@ -8,7 +10,7 @@ const LandinPage = () => {
             <Encabezado/>
             <div className={est.contenedor}>
                 <div>
-                    <h1>Sobre mi</h1>
+                    <h1>Sobre Mi</h1>
                     <p>Soy una persona que le apasiona el mundo de la programación y la capacidad de crear, y de resolver problemas a través de diversas tecnologías. Me gusta trabajar en equipo y me adapto rápido al entorno laboral para seguir aprendiendo.
                     </p>
                     <p>Me formé en Soy Henry, un bootcamp muy exigente pero que me enseñó la mayoria de las tecnologías que hoy conozco, en ese proceso desarrollé dos proyectos. Un proyecto individual en el cual puse en práctica todo lo aprendido en Henry y en el proyecto grupal el cual lo realicé con 6 compañeros más y pusimos a prueba nuevas tecnologías.</p>
@@ -23,7 +25,7 @@ const LandinPage = () => {
                                 <img src="https://portafolio-ten-rho.vercel.app/assets/icons8-css3.85699db1.svg" alt="Css" />
                             </div>
                             <div>
-                                <img src="https://s3-ap-northeast-1.amazonaws.com/samurai-blog-media/blog/wp-content/uploads/2018/05/shutterstock_181612628-810x958.jpg" alt="Javascript" />
+                                <img src="https://www.tutorialslink.com/images/Codeeditor/javascript-icon.png" alt="Javascript" />
                             </div>
                             <div>
                                 <img src="https://portafolio-ten-rho.vercel.app/assets/react-2.03ddbe0e.svg" alt="React" />
@@ -42,6 +44,25 @@ const LandinPage = () => {
                             </div>
                             <div>
                                 <img src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png" alt="Mongo db" />
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h1>Mis Proyectos</h1>
+                        <div className={est.proyecto}>
+                            <div>
+                                <h3>VideoGames</h3>
+                                <a target='blanck' href='https://pi-videogames-beta.vercel.app/'>
+                                    <img src={videogames} alt='VideoGames'></img>
+                                </a>
+                                <p></p>
+                            </div>
+                            <div>
+                                <h3>Nautical</h3>
+                                <a target='blanck' href='https://nuevo-pf.vercel.app/'>
+                                    <img src={Nautical} alt='Nautical'></img>
+                                </a>
+                                <p></p>
                             </div>
                         </div>
                     </div>
