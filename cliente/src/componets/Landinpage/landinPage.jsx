@@ -55,7 +55,7 @@ const LandinPage = () => {
                                 <a target='blanck' href='https://pi-videogames-beta.vercel.app/'>
                                     <img src={videogames} alt='VideoGames'></img>
                                 </a>
-                                <p></p>
+                                <p>Este es un proyecto donde consumo una api</p>
                             </div>
                             <div>
                                 <h3>Nautical</h3>
