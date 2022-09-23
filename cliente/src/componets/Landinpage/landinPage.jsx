@@ -45,6 +45,9 @@ const LandinPage = () => {
                             <div>
                                 <img src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png" alt="Mongo db" />
                             </div>
+                            <div>
+                                <img src="https://i0.wp.com/community.nodemailer.com/wp-content/uploads/2015/10/n2-2.png?fit=422%2C360&ssl=1" alt="Nodemaeilr" />
+                            </div>
                         </div>
                     </div>
                     <div>
@@ -55,7 +58,7 @@ const LandinPage = () => {
                                 <a target='blanck' href='https://pi-videogames-beta.vercel.app/'>
                                     <img src={videogames} alt='VideoGames'></img>
                                 </a>
-                                <p>Este es un proyecto donde consumo una api</p>
+                                <p></p>
                             </div>
                             <div>
                                 <h3>Nautical</h3>
