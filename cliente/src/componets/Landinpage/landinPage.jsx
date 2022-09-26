@@ -45,6 +45,9 @@ const LandinPage = () => {
                             <div>
                                 <img src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png" alt="Mongo db" />
                             </div>
+                            <div>
+                                <img src="https://i0.wp.com/community.nodemailer.com/wp-content/uploads/2015/10/n2-2.png?fit=422%2C360&ssl=1" alt="Nodemaeilr" />
+                            </div>
                         </div>
                     </div>
                     <div>
