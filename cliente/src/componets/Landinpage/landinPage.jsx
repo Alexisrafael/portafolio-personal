@@ -64,13 +64,13 @@ const LandinPage = () => {
                                 </a>
                                 <p>Con este proyecto me pude desenvolver en nuevas tecnologías como mongo db, jwt (jsonWebToken), bcrypt y nodemailer ya que me encotraba cumpliendo el rol de backend. Aqui cree una api para que fuera consumida por el frontend, esta api fue desarrollada con Node.js, Express y por una base de datos no relacional antes mensionada (Mongo DB), con la biblioteca Mongoose.</p>
                             </div>
-                            <div>
+                            {/* <div>
                                 <h3>Ensaladísima</h3>
                                 <a target='blanck' href='https://ensaladisima.vercel.app/'>
                                     <img src={Ensaladisima} alt='Ensaladísima'></img>
                                 </a>
                                 <p></p>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
